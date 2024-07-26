@@ -24,7 +24,6 @@ namespace ConsoleWirte
             Console.WriteLine(e);
             Console.WriteLine(f);
             Console.WriteLine(i);
-            Console.WriteLine(a);
         }
     }
 }
