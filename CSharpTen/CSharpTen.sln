@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndWrite", "Variab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleFormat", "ConsoleFormat\ConsoleFormat.csproj", "{F3F778DF-792B-4EDC-BA12-A149DBACE2AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatSpecifier", "formatSpecifier\formatSpecifier.csproj", "{BF7CAAD6-9542-4DBB-9C19-70661B428DE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F3F778DF-792B-4EDC-BA12-A149DBACE2AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3F778DF-792B-4EDC-BA12-A149DBACE2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3F778DF-792B-4EDC-BA12-A149DBACE2AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7CAAD6-9542-4DBB-9C19-70661B428DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7CAAD6-9542-4DBB-9C19-70661B428DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7CAAD6-9542-4DBB-9C19-70661B428DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7CAAD6-9542-4DBB-9C19-70661B428DE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
